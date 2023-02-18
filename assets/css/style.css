@@ -1,0 +1,13 @@
+:root {
+  --color-primary: #4f1271;
+  --color-secondary: #783f8e;
+  --color-text_background: #c8c6d7;
+  --color-body_background: #bfacc8;
+  --color-text: #4a4063;
+}
+
+button:hover {
+  background-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
