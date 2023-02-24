@@ -11,3 +11,7 @@ button:hover {
   color: var(--color-primary);
 }
 
+#not-having-a-good-time {
+  margin: 2% 0 2% 0 !important;
+}
+
